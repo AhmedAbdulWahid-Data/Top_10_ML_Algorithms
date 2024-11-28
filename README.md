@@ -9,21 +9,34 @@ This repository is your one-stop-shop to explore the **Top 10 Machine Learning A
 ## ✨ What's Inside?
 
 📘 A single, **well-organized Jupyter Notebook** that includes:
-- 🚧 **Step-by-step tutorials** on prerequisites:
+### 🚧 **Step-by-step tutorials** on prerequisites:
   - Calculus 📈 (Gradients, Optimization)
+    
   - Linear Algebra 🔢 (Vectors, Matrices, Eigenvalues)
+    
   - NumPy 🤖 (Matrix Manipulations)
+    
   - matplotlib 🎨 (Data Visualization)
-- 💡 **Crystal-clear explanations** for each algorithm:
+    
+### 💡 **Crystal-clear explanations** for each algorithm:
   - **Linear Regression**: Predict continuous values with line fitting.
+    
   - **Logistic Regression**: Classify with probabilities.
+    
   - **SVM**: Build powerful decision boundaries.
+    
   - **KNN**: Let your neighbors guide the prediction.
+    
   - **K-means**: Group data into meaningful clusters.
+    
   - **Decision Trees**: Split data like a boss.
+    
   - **Random Forests**: Boost accuracy with ensembles.
+    
   - **Perceptron**: The OG neural network.
+    
   - **Naive Bayes**: Probabilities made simple.
+    
   - **PCA**: Reduce dimensions, unleash insights.
 
 ---
