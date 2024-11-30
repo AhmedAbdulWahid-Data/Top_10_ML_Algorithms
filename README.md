@@ -1,4 +1,4 @@
-# 💡 Top 10 Machine Learning Algorithms from Scratch 💡
+# **💡 Top 10 Machine Learning Algorithms from Scratch 💡**
 
 🎓 **Learn, Implement, and Master the Foundations of Machine Learning!**
 
