@@ -4,7 +4,7 @@
 
 This repository is your one-stop-shop to explore the **Top 10 Machine Learning Algorithms**, built entirely from scratch in Python. No libraries, no shortcuts—just pure understanding. Perfect for beginners and enthusiasts alike!
 
-## You can download my guide on Data Mining 👉 [Here! 📂](https://github.com/user-attachments/files/19521906/Data.Mining.pdf)
+# You can download my guide on Data Mining 👉 [Here! 📂](https://github.com/user-attachments/files/19521906/Data.Mining.pdf)
 
 ---
 
