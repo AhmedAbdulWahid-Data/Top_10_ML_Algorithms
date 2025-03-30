@@ -6,6 +6,8 @@ This repository is your one-stop-shop to explore the **Top 10 Machine Learning A
 
 # You can download my guide on Data Mining 👉 [Here! 📂](https://github.com/user-attachments/files/19521906/Data.Mining.pdf)
 
+# You can download my Stats interview guide 👉 [Here! 📂](https://github.com/user-attachments/files/19525462/stats.interview.pdf)
+
 ---
 
 ## ✨ What's Inside?
